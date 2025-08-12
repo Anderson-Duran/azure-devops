@@ -1,0 +1,9 @@
+.centeredTitle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-size: 2rem;
+  color: #333;
+  background-color: #f0f0f0;
+}
